@@ -1,1 +1,1 @@
-apk add -X https://dl-cdn.alpinelinux.org/alpine/edge/main -u alpine-keys --allow-untrusted
+https://lnk.ameos.uk/figma/ameos16
